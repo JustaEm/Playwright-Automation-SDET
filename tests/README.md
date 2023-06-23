@@ -1,0 +1,1 @@
+Learning about Playwright tool through some tutorials found on the internet.
